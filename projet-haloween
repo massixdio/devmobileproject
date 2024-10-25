@@ -24,3 +24,5 @@ val trick = {
 val treat: () -> Unit = {
 println("Have a treat!")
 }
+
+BEM9VLljvlBEM9VLljvl
